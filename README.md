@@ -1,6 +1,6 @@
 # Gasosa - Álcool ou Gasolina?
 
-Gasosa é um aplicativo simples feito em Kotlin com Jetpack Compose para me aproximar ainda mais dos recursos do Jetpack.  
+Gasosa é um aplicativo simples feito em Kotlin com Jetpack Compose para me aproximar ainda mais dos recursos do Jetpack.
 Ao informar o preço da gasolina e do álcool, ele exibe qual vale mais a pena usando a regra do **0,7**.
 > Inspirações [Meu Bolso em Dia](https://meubolsoemdia.com.br/calculadora-alcool-gasolina) e **Professor** [Alex Felipe](https://www.youtube.com/@AlexFelipeDev)
 
